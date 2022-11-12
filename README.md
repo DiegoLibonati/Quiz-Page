@@ -41,7 +41,31 @@ I made a web page that allows you to solve a quiz about me, about Diego Libonati
 
 ## Video
 
-
-
 https://user-images.githubusercontent.com/99032604/199618531-aeecc655-9c02-4895-90a7-635df71f9b70.mp4
 
+## Documentation
+
+The `loadQuiz()` function is in charge of loading the complete quiz:
+
+```
+function loadQuiz() {
+  quizAsk.textContent = dataQuiz[currentQuiz].ask;
+
+  optionA.textContent = dataQuiz[currentQuiz].oA;
+  optionB.textContent = dataQuiz[currentQuiz].oB;
+  optionC.textContent = dataQuiz[currentQuiz].oC;
+  optionD.textContent = dataQuiz[currentQuiz].oD;
+}
+```
+
+The `checkIfTrueOrFalse()` function is in charge of knowing if the option chosen by the user is correct or false:
+
+```
+function checkIfTrueOrFalse() {
+  if (checkSelection[0] == dataQuiz[currentQuiz].correct) {
+    score++;
+  } else {
+    console.log(score);
+  }
+}
+```
