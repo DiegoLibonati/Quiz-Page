@@ -37,7 +37,7 @@ I made a web page that allows you to solve a quiz about me, about Diego Libonati
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Quiz%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Quiz%20Page`
 
 ## Video
 
