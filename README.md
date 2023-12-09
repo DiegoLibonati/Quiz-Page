@@ -23,22 +23,6 @@ I made a web page that allows you to solve a quiz about me, about Diego Libonati
 2. CSS3
 3. HTML5
 
-## Galery
-
-![quiz-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/quiz-0.jpg)
-
-![quiz-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/quiz-1.jpg)
-
-![quiz-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/quiz-2.jpg)
-
-![quiz-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/quiz-3.jpg)
-
-![quiz-page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Javascript/Imagenes/quiz-4.jpg)
-
-## Portfolio Link
-
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Quiz%20Page`
-
 ## Video
 
 https://user-images.githubusercontent.com/99032604/199618531-aeecc655-9c02-4895-90a7-635df71f9b70.mp4
