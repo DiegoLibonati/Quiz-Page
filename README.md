@@ -36,7 +36,7 @@ I made a web page that allows you to solve a quiz about me, about Diego Libonati
 
 ## Video
 
-https://user-images.githubusercontent.com/99032604/199618531-aeecc655-9c02-4895-90a7-635df71f9b70.mp4
+https://github.com/DiegoLibonati/Quiz-Page/assets/99032604/73c9060b-25f4-44eb-bc92-68dc75d10dce
 
 ## Documentation
 
