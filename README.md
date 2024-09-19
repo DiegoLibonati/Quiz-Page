@@ -1,4 +1,4 @@
-# Quiz-Page
+# Quiz Page
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ I made a web page that allows you to solve a quiz about me, about Diego Libonati
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/104`](https://www.diegolibonati.com.ar/#/project/104)
+[`https://www.diegolibonati.com.ar/#/project/Quiz-Page`](https://www.diegolibonati.com.ar/#/project/Quiz-Page)
 
 ## Video
 
